@@ -59,11 +59,13 @@ npm install
 
 # App im Dev-Modus starten (Hot Reload)
 npm run dev
+```
 Exe-Datei bauen (Windows)
 Erstellt einen Installer für Windows im Ordner dist.
 
-Bash
+```Bash
 npm run dist
+```
 💾 Daten & Backup
 Die App speichert alle Daten lokal auf dem Gerät (LocalStorage). Es gibt keine Cloud-Datenbank.
 
@@ -92,7 +94,7 @@ Icons: Lucide React
 Drag & Drop: @dnd-kit
 
 📂 Projektstruktur
-Plaintext
+```Plaintext
 hawks-toolbox/
 ├── dist/                  # Fertige .exe Dateien (nach Build)
 ├── public/                # Statische Assets (Bilder, Legacy Tools)
@@ -107,4 +109,6 @@ hawks-toolbox/
 │   ├── App.jsx            # Hauptmenü & Routing
 │   └── main.jsx           # Entry Point
 └── package.json           # Config & Scripts
+```
+
 © 2026 Zimmerberg Hawks | Built by Steven
