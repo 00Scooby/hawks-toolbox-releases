@@ -54,6 +54,8 @@ Das Kommandozentrum für den Matchday.
 * **WhatsApp & PDF Export:** Mit einem Klick das perfekt formatierte Aufgebot in den Team-Chat posten oder als sauberes Dokument ausdrucken.
 
 ---
+
+---
 © 2026 Zimmerberg Hawks | Built by Steven
 
 
