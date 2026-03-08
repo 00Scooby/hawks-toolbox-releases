@@ -1,9 +1,9 @@
-# 🦅 Hawks Toolbox v2.4.1
+# 🦅 Hawks Toolbox v2.5.0
 
 > **All-in-One Admin Suite für die Zimmerberg Hawks.**
 > Planen, Gestalten, Verwalten und Turniere organisieren – alles in einer App.
 
-![Version](https://img.shields.io/badge/version-2.4.1-indigo?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-2.5.0-indigo?style=for-the-badge)
 ![Tech](https://img.shields.io/badge/Electron-React-blue?style=for-the-badge&logo=react)
 ![Style](https://img.shields.io/badge/Tailwind-CSS-38bdf8?style=for-the-badge&logo=tailwindcss)
 
