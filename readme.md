@@ -1,9 +1,9 @@
-# 🦅 Hawks Toolbox v2.6.1
+# 🦅 Hawks Toolbox v2.7.0
 
 > **All-in-One Admin Suite für die Zimmerberg Hawks.**
 > Planen, Gestalten, Verwalten und Turniere organisieren – alles in einer App.
 
-![Version](https://img.shields.io/badge/version-2.6.1-indigo?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-2.7.0-indigo?style=for-the-badge)
 ![Tech](https://img.shields.io/badge/Electron-React-blue?style=for-the-badge&logo=react)
 ![Style](https://img.shields.io/badge/Tailwind-CSS-38bdf8?style=for-the-badge&logo=tailwindcss)
 
@@ -46,12 +46,33 @@ Das Tool für die Infrastruktur.
 * **Planung:** Hallenbelegung planen.
 * **Übersicht:** Einfaches visuelles Tool zur Ressourcen-Einteilung.
 
-### 6. 📱 Aufgebots-Generator (NEU)
+### 6. 📱 Aufgebots-Generator
 Das Kommandozentrum für den Matchday.
 * **Smart Import:** Lädt Kader direkt aus dem Team Manager.
 * **Lineup & Blöcke:** Taktische Einteilung für Kleinfeld (3er) und Grossfeld (5er) inklusive Special Teams (Power Play / Boxplay).
 * **Auto-Tetris:** Fahrer und freie Plätze für Auswärtsspiele verwalten.
 * **WhatsApp & PDF Export:** Mit einem Klick das perfekt formatierte Aufgebot in den Team-Chat posten oder als sauberes Dokument ausdrucken.
+
+### 7. ⏱️ Live Scoreboard (NEU)
+Das ultimative Kommandozentrum für den Jury-Tisch am Matchday.
+* **Dual-Screen Magie:** Laptop als Controller nutzen und das Scoreboard auf einem zweiten Monitor oder Beamer für die Zuschauer im Vollbild anzeigen (Echtzeit-Sync).
+* **Match-Uhr & Auto-Horn:** Vorwärts oder rückwärts laufende Zeit, schnelle Korrektur-Buttons (Sekunden/Minuten) und ein integriertes Hallen-Horn.
+* **Smarte Strafen-Matrix:** Automatische Warteschlange für Kleinfeld (max. 1 laufende Strafe) und Grossfeld (max. 2). Unterstützt 2', 2+2' und 10' Strafen inklusive nachträglicher Eingabe der Trikotnummer.
+* **Timeouts:** Ein-Klick-Timeout pro Team mit 30-Sekunden-Countdown direkt auf dem grossen Display.
+
+---
+
+## ⚡ Installation & Entwicklung
+
+Voraussetzung: [Node.js](https://nodejs.org/) installiert.
+
+### Entwicklung starten
+```bash
+# Abhängigkeiten installieren
+npm install
+
+# App im Dev-Modus starten (Hot Reload)
+npm run dev
 
 ---
 
