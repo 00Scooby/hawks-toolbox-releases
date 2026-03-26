@@ -1,9 +1,9 @@
-# 🦅 Hawks Toolbox v3.2.3
+# 🦅 Hawks Toolbox v3.2.4
 
 > **Die offizielle Admin-Suite der Zimmerberg Hawks.**
 > Ein einheitliches Ökosystem zum Planen, Verwalten und Organisieren – jetzt im vollständigen Hawks-Corporate-Design.
 
-![Version](https://img.shields.io/badge/version-3.2.3-2C99FE?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-3.2.4-2C99FE?style=for-the-badge)
 ![Tech](https://img.shields.io/badge/Electron-React-blue?style=for-the-badge&logo=react)
 ![Style](https://img.shields.io/badge/Tailwind-CSS-38bdf8?style=for-the-badge&logo=tailwindcss)
 ![DB](https://img.shields.io/badge/Firebase-Cloud-FFCA28?style=for-the-badge&logo=firebase)
