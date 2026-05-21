@@ -8,10 +8,6 @@
 ![Style](https://img.shields.io/badge/Tailwind-CSS-38bdf8?style=for-the-badge&logo=tailwindcss)
 ![DB](https://img.shields.io/badge/Firebase-Cloud-FFCA28?style=for-the-badge&logo=firebase)
 
-## 🌟 Das Redesign-Update (März 2026)
-
-Mit diesem Release wurde die gesamte Toolbox auf das offizielle **Hawks-Blau (`#2C99FE`)** umgestellt. Die Benutzeroberfläche ist nun über alle Module hinweg konsistent, modernisiert und für den Darkmode optimiert.
-
 ---
 
 ## 🚀 Die Module
@@ -53,6 +49,12 @@ Das ultimative Tool für den Jury-Tisch.
 * **Dual-Screen Mode:** Laptop als Controller, externer Monitor/Beamer als Anzeige für Zuschauer.
 * **Strafen-Matrix:** Automatisierte Warteschlange für Strafen (KF/GF-Logik).
 * **Realtime Sync:** Verzögerungsfreie Übertragung der Matchzeit und Spielstände.
+
+### 8. 🔒 Vorstand Budget (Read-Only)
+Die sichere Einsicht für den Vorstand.
+* **Live-Daten:** Bezieht die Daten in Echtzeit aus der Firebase-Cloud des Haupt-Budgets.
+* **Zero-Risk:** Sämtliche Schreibrechte und Editier-Funktionen sind deaktiviert. Zahlen können nicht versehentlich überschrieben werden.
+* **Offline-Export:** Beinhaltet einen perfekten PDF-Druckmodus und einen JSON-Export für lokale Backups.
 
 ---
 © 2026 Zimmerberg Hawks | Built by Steven
