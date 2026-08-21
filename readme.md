@@ -1,9 +1,9 @@
-# 🦅 Hawks Toolbox v3.3.5
+# 🦅 Hawks Toolbox v3.4.0
 
 > **Die offizielle Admin-Suite der Zimmerberg Hawks.**
 > Ein einheitliches Ökosystem zum Planen, Verwalten und Organisieren – jetzt im vollständigen Hawks-Corporate-Design.
 
-![Version](https://img.shields.io/badge/version-3.3.5-2C99FE?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-3.4.0-2C99FE?style=for-the-badge)
 ![Tech](https://img.shields.io/badge/Electron-React-blue?style=for-the-badge&logo=react)
 ![Style](https://img.shields.io/badge/Tailwind-CSS-38bdf8?style=for-the-badge&logo=tailwindcss)
 ![DB](https://img.shields.io/badge/Firebase-Cloud-FFCA28?style=for-the-badge&logo=firebase)
@@ -27,13 +27,13 @@ Das Herzstück für die Saisonplanung.
 * **API-Anbindung:** Lädt Spiele direkt von Swiss Unihockey.
 * **Custom Designs:** Volle Kontrolle über Typografie und Abstände für Match-Ankündigungen und Resultate.
 
-### 4. 💰 Cloud Budget (UPGRADED)
+### 4. 💰 Cloud Budget
 Sichere Finanzplanung mit Cloud-Anbindung.
 * **Firebase Sync:** Echtzeit-Synchronisation und automatisches Backup (letzte 5 Versionen) in der Cloud.
 * **Sicherheit:** Passwortgeschützter Bereich für vertrauliche Finanzdaten.
 * **Hybrid-Mode:** Arbeitet lokal weiter, falls die Internetverbindung unterbrochen wird.
 
-### 5. 🗺️ Hallenplaner (UPGRADED)
+### 5. 🗺️ Hallenplaner
 Infrastruktur-Management leicht gemacht.
 * **Präzises Drag & Drop:** Hallenzeiten visuell einteilen.
 * **Smart UI:** Neue Steuerung via Doppelklick zum Löschen und Grip-Handles für maximale Usability.
@@ -55,6 +55,13 @@ Die sichere Einsicht für den Vorstand.
 * **Live-Daten:** Bezieht die Daten in Echtzeit aus der Firebase-Cloud des Haupt-Budgets.
 * **Zero-Risk:** Sämtliche Schreibrechte und Editier-Funktionen sind deaktiviert. Zahlen können nicht versehentlich überschrieben werden.
 * **Offline-Export:** Beinhaltet einen perfekten PDF-Druckmodus und einen JSON-Export für lokale Backups.
+
+### 9. 📸 Photo Studio (NEW)
+Vollautomatische KI-Bildbearbeitung für Spielerporträts und Teambilder.
+* **KI-Freistellung (100% Offline):** Entfernt Bildhintergründe lokal und ohne Cloud-Zwang dank integriertem Python/Rembg-Motor.
+* **Smart Compositing:** Setzt Spieler bündig in das Hawks-Corporate-Design ein (inkl. automatischem quadratischen Zuschnitt für Social-Media-Porträts).
+* **Stapelverarbeitung (Batch):** Ein ganzes Team auf Knopfdruck verarbeiten. Inklusive Review-UI, Hover-Zoom-Vorschau und schneller Dateinamen-Anpassung.
+* **Auto-Fix:** Automatische EXIF-Korrektur behebt rotierte Smartphone-Bilder (90-Grad-Bug) vor der KI-Übergabe.
 
 ---
 © 2026 Zimmerberg Hawks | Built by Steven
